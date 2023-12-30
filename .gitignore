@@ -160,5 +160,4 @@ cython_debug/
 #.idea/
 
 #dataset
-mini_sparkify_event_data.json
-medium_sparkify_event_data.json
+*.json
